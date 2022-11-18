@@ -1,0 +1,135 @@
+body{
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  
+}
+
+
+div{
+  /* background-color:rgb(30, 240, 240); */
+  /* margin: 49px;; */
+}
+h1{
+  margin: 50px auto 0px auto;
+  font-family: 'Merriweather', serif;
+  font-size: 4em;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+h3{
+  font-family:  serif;
+  color: #66BFBF;
+  
+  font-size: 1.5rem;
+  
+}
+.middle-container{
+  margin: 100px 0px;
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  background-color: #C3F8FF;
+  
+  /* height: 200px; */
+  /* width: 200px; */
+  /* padding: 10px; */
+  /* border-style: solid;
+  border-width: 10px; */
+  /* border: 10px solid; */
+}
+.top-cloud{
+  position: absolute;
+  right: 360px;
+  top: 60px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+
+/* .down{
+  position: relative;
+  bottom: 35px;
+} */
+.my-profile{
+  height: 200px;
+  width: 200px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  
+}
+p{
+  font-size: 20px;
+  width: 100%;
+  line-height: 2;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  
+}
+.chilli-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile{
+  width: 50%;
+  margin: auto;
+}
+hr{
+  border-style: dotted;
+  border-width: 7px;
+  border-color: grey;
+  border-bottom-style: none;
+  width: 15%;
+  margin: 100px auto;
+}
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+  
+  
+}
+.btn{
+  border: 3px solid rgb(87, 188, 228) ;
+  background-color:  rgb(87, 188, 228);
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+.button{
+  margin: 72px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 4;
+}
+.footer-link{
+  font-size: 25px;
+  margin: 25px 15px 15px 15px;
+  text-decoration: none;
+  border-style: none; 
+  color:#C3F8FF ;
+  position: relative;
+  top: 30px;
+  
+}
+.link{
+  margin-top: 20px;
+}
